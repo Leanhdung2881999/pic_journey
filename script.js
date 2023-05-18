@@ -1,12 +1,10 @@
-var appName = "Taearn";
-var storeUrl =
-  "https://codecanyon.net/item/taearn-make-money-flutter-app/44937626";
-var date = "2023-04-11";
+var appName = "Pic Journey";
+var date = "2023-05-30";
 
-function onIndexLoad() {
-  document.title = appName + " Flutter";
-  document.getElementById("storeUrl").href = storeUrl;
-}
+// function onIndexLoad() {
+//   document.title = appName + " Flutter";
+//   document.getElementById("storeUrl").href = storeUrl;
+// }
 
 function onPolicyLoad() {
   document.title = appName + " " + "Privacy Policy";
